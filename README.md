@@ -1,0 +1,1 @@
+This repository contains an Ada program that calculates the area of a rectangle. The initial version of the program does not handle potential exceptions that could arise from invalid input, such as negative length or width.  The `bugSolution.ada` file provides an improved version that addresses this issue using exception handling.
